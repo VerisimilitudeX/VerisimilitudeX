@@ -11,3 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verisimilitude11&layout=compact&theme=github_dark)](https://github.com/verisimilitude11/github-readme-stats)
 
 ![snake gif](https://github.com/Verisimilitude11/Verisimilitude11/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
