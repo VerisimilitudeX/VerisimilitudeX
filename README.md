@@ -6,7 +6,8 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I want to learn to program models of atoms
 
+[![Piyush Acharya's GitHub stats](https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=trueshow_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Contribution Graph:
-[![Piyush Acharya's GitHub stats](https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=trueshow_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![snake svg](https://github.com/Verisimilitude11/Verisimilitude11/blob/output/github-contribution-grid-snake.svg)
