@@ -26,6 +26,13 @@ Piyush Acharya is a freshman at Interlake High School. He is fueled by his passi
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/amazon.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://pic.onlinewebfonts.com/svg/img_415633.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://fontawesomeicons.com/lib/svg/google-cloud.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/android.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://atom.io/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/atom.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="react" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </div>
 
