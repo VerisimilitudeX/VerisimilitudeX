@@ -32,7 +32,16 @@ Piyush Acharya is a freshman at Interlake High School. He is fueled by his passi
   <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/android.svg" alt="react" width="40" height="40"/></a>
   <a href="https://atom.io/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/atom.svg" alt="react" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/acrobat-pro-cc.html" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968377.png" alt="xd" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="xd" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" alt="xd" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/indesign.html" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611049.png?token=exp=1656537210~hmac=45cb9cee63dc7a7d8aa3e7e2ed8cbc48" alt="xd" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611014.png?token=exp=1656537276~hmac=366c2ece11f4f3b4af315c0c1fd6adc7" alt="xd" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968514.png" alt="xd" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/premiere-rush.html" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968531.png" alt="xd" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611129.png?token=exp=1656537497~hmac=7e01825aaccecaa794d19ea45b662820" alt="xd" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/animate.html" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611024.png?token=exp=1656537601~hmac=5135c486b646e8d3c54f211589721f6f" alt="xd" width="40" height="40"/></a>  
+  
 </div>
 
 ## 📬 Connect with Me
