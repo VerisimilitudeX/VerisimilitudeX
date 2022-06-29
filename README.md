@@ -28,7 +28,7 @@ Piyush Acharya is a freshman at Interlake High School. He is fueled by his passi
   <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/amazon.svg" alt="react" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://pic.onlinewebfonts.com/svg/img_415633.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" alt="react" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://fontawesomeicons.com/lib/svg/google-cloud.svg" alt="react" width="40" height="40"/></a>
   <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/android.svg" alt="react" width="40" height="40"/></a>
   <a href="https://atom.io/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/atom.svg" alt="react" width="40" height="40"/></a>
