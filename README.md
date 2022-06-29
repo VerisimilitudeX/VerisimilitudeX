@@ -1,4 +1,4 @@
-### 👋 Hi there
+## 👋 Hi there
 
 Piyush Acharya is a freshman at Interlake High School. He is fueled by his passion for innovation and is eager to build on his academic foundations in chemistry, earth science, and math. His aptitude for sharing knowledge is the basis for this website, where he showcases a glimpse of his learnings and successes, as well as his fun side. In his free time, he likes playing the piano, tennis, and swimming, as well as hiking with his family. Piyush aspires to major in a branch of science in college and use what he learns to improve everyday lives. 
 
@@ -44,12 +44,8 @@ Piyush Acharya is a freshman at Interlake High School. He is fueled by his passi
   
 </div>
 
-## 📬 Connect with Me
-- ✉️ Email: verisimilitude11@outlook.com
-- 🎨 Portfolio: https://www.piyushacharya.com
-- 💼 LinkedIn: TBA
-- 🚀 I'm always open to collaborate on cool and interesting projects 
-
 ### Contribution Graph:
 
 ![snake svg](https://github.com/Verisimilitude11/Verisimilitude11/blob/output/github-contribution-grid-snake.svg)
+
+![Metrics](https://metrics.lecoq.io/Verisimilitude11?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&code=1&base.indepth=false&base.hireable=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=America%2FLos_Angeles&config.twemoji=true&config.octicon=true)
