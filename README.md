@@ -47,5 +47,3 @@ Piyush Acharya is a freshman at Interlake High School. He is fueled by his passi
 ### Contribution Graph:
 
 ![snake svg](https://github.com/Verisimilitude11/Verisimilitude11/blob/output/github-contribution-grid-snake.svg)
-
-![Metrics](https://metrics.lecoq.io/Verisimilitude11?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&code=1&base.indepth=false&base.hireable=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=America%2FLos_Angeles&config.twemoji=true&config.octicon=true)
