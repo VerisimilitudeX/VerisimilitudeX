@@ -2,14 +2,19 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11)
 
-Piyush Acharya is a freshman at Interlake High School. He is fueled by his passion for innovation and is eager to build on his academic foundations in chemistry, earth science, and math. His aptitude for sharing knowledge is the basis for this website, where he showcases a glimpse of his learnings and successes, as well as his fun side. In his free time, he likes playing the piano, tennis, and swimming, as well as hiking with his family. Piyush aspires to major in a branch of science in college and use what he learns to improve everyday lives. 
+Piyush Acharya is a freshman at Interlake High School. He is fueled by his passion for innovation and is eager to build on his academic foundations in chemistry, earth science, and math. His aptitude for sharing knowledge is the basis for the creation of this GitHub profile, where he showcases a glimpse of his learnings and successes, as well as his fun side. In his free time, he likes playing the piano, tennis, and swimming, as well as hiking with his family. Piyush aspires to major in a branch of science in college and use what he learns to improve everyday lives. 
 
-[![Piyush Acharya's GitHub stats](https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=trueshow_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Piyush Acharya's GitHub stats](https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=trueshow_icons=true&theme=github_dark&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
+  <a href="https://github.com/Verisimilitude11" alt="Verisimilitude11's GitHub Stats" style="margin: 5px;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verisimilitude11&layout=compact&langs_count=10&border_color=fff&border_radius=10&&theme=github_dark" />
+  </a>
+</div>
 
 
 ## 💻 My Tech Stack
 
-### 🛠️ Languages
+### ✅ Languages
 
 <div style="display: flex;">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
