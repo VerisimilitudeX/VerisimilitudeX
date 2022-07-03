@@ -5,8 +5,8 @@
 Piyush Acharya is a freshman at Interlake High School. He is fueled by his passion for innovation and is eager to build on his academic foundations in chemistry, earth science, and math. His aptitude for sharing knowledge is the basis for the creation of this GitHub profile, where he showcases a glimpse of his learnings and successes, as well as his fun side. In his free time, he likes playing the piano, tennis, and swimming, as well as hiking with his family. Piyush aspires to major in a branch of science in college and use what he learns to improve everyday lives. 
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Verisimilitude11&count_private=trueshow_icons=true&theme=tokyonight&border_radius=15" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verisimilitude11&layout=compact&langs_count=10&border_color=fff&&theme=tokyonight&border_radius=10" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Verisimilitude11&count_private=trueshow_icons=true&theme=tokyonight&border_radius=15" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verisimilitude11&layout=compact&langs_count=10&border_color=fff&&theme=tokyonight&border_radius=10" />
 </p>
 
   
