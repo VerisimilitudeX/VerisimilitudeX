@@ -12,7 +12,7 @@ Piyush Acharya is a freshman at Interlake High School. He is fueled by his passi
 </p>
   
 ### 💬 Get in touch!
-- Personal Website: [https://www.piyushacharya.com/](Piyush Acharya)
+- Personal Website: [https://www.piyushacharya.com/](https://www.piyushacharya.com/)
 - Linkedin: [https://www.linkedin.com/in/piyush-acharya/](LinkedIn)
 
 ## 💻 My Tech Stack
