@@ -2,7 +2,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11)
 
-Piyush Acharya is a freshman at Interlake High School. He is fueled by his passion for innovation and is eager to build on his academic foundations in chemistry, earth science, and math. His aptitude for sharing knowledge is the basis for the creation of this GitHub profile, where he showcases a glimpse of his learnings and successes, as well as his fun side. In his free time, he likes playing the piano, tennis, and swimming, as well as hiking with his family. Piyush aspires to major in a branch of science in college and use what he learns to improve everyday lives. 
+Hi, I'm Piyush, a rising freshman at Interlake High School. I recently placed first in the U.S. Department of Energy's National Science Bowl which tests students' knowledge of chemistry, earth science, math, physics, and biology. 
+
+I am highly passionate about advancing my skills in these fields as well as tying it with my passion for computer science. By continuing to do so, I will be able to apply what I have learned to make an impact on everyday lives.
+
+In my free time, I enjoy playing tennis, swimming, playing the piano, and biking with my family.
 
 <p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Verisimilitude11&count_private=trueshow_icons=true&theme=tokyonight&border_radius=15" />
