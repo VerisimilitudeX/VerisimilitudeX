@@ -16,7 +16,7 @@ In my free time, I enjoy playing tennis, swimming, playing the piano, and biking
   
 ### 💬 Get in touch!
 - Personal Website: [https://www.piyushacharya.com/](https://www.piyushacharya.com/)
-- Linkedin: [https://www.linkedin.com/in/piyush-acharya/](LinkedIn)
+- Connect with me on Linkedin: [https://www.linkedin.com/in/piyush-acharya/](LinkedIn)
 
 ## 💻 My Tech Stack
 
