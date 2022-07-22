@@ -24,6 +24,7 @@ In my free time, I enjoy playing tennis, swimming, playing the piano, and biking
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" alt="BASH" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://th.bing.com/th/id/R.711f654d966e29da576399cc8d873a9e?rik=tifO%2bzvVJ9j0UA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f10%2fJava_logo.png&ehk=P22bQv3apUVfWeZ8R8pFK3FLKFXCgf6kklPc4mjoQkE%3d&risl=&pid=ImgRaw&r=0" alt="Java" width="40" height="40"/></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="HTML" width="40" height="40"/></a>
   
 </div>
 
