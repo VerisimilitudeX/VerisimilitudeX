@@ -9,7 +9,7 @@ I am highly passionate about advancing my skills in these fields as well as tyin
 In my free time, I enjoy playing tennis, swimming, playing the piano, and biking with my family.
 
 <p align="left">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Verisimilitude11&count_private=trueshow_icons=true&theme=tokyonight&border_radius=15" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Verisimilitude11&count_private=trueshow_icons=true&theme=tokyonight&border_radius=15" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verisimilitude11&layout=compact&langs_count=10&border_color=fff&&theme=tokyonight&border_radius=10" />
 </p>
 
