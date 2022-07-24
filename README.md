@@ -1,4 +1,4 @@
-## 👋 Hi there
+## <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30"> Hi there
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11)
 
@@ -23,7 +23,11 @@ In my free time, I enjoy playing tennis, swimming, playing the piano, and biking
 ### ✅ Languages
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://th.bing.com/th/id/R.711f654d966e29da576399cc8d873a9e?rik=tifO%2bzvVJ9j0UA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f10%2fJava_logo.png&ehk=P22bQv3apUVfWeZ8R8pFK3FLKFXCgf6kklPc4mjoQkE%3d&risl=&pid=ImgRaw&r=0" alt="Java" width="40" height="40"/></a>
-  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="HTML" width="40" height="40"/></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="HTML" width="40" height="40"/></a>
+  <!--
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  -->
   
 </div>
 
@@ -38,6 +42,8 @@ In my free time, I enjoy playing tennis, swimming, playing the piano, and biking
   <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/android.svg" alt="react" width="40" height="40"/></a>
   <a href="https://www.bluej.org/" target="_blank"><img src="https://www.freeiconspng.com/uploads/bluej-icon-png-0.png" alt="react" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://jekyllrb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/></a>
   <a href="https://visualstudio.com/" target="_blank"><img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-192.2833764d.png" alt="react" width="40" height="40"/></a>
   <a href="https://www.eclipse.org/ide/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="react" width="40" height="40"/></a>
   
