@@ -15,12 +15,9 @@ In my free time, I enjoy playing tennis, swimming, playing the piano, and biking
 
 ### 💬 Get in touch!
 - Portfolio: [https://www.piyushacharya.com/](https://www.piyushacharya.com/)
-- Connect with me on Linkedin:
-
-<div><img src="https://www.piyushacharya.com/assets/img/general/LinkedIn-profile.png" alt="Piyush Acharya"></div>
-              
+- Connect with me on Linkedin: https://www.linkedin.com/in/piyush-acharya
 - Stack Overflow:
-<p> <a href="https://stackoverflow.com/users/19637822/verisimilitude"><img src="https://stackoverflow.com/users/flair/19637822.png?theme=dark" width="208" height="58" alt="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </p>
+<p><a href="https://stackoverflow.com/users/19637822/verisimilitude"><img src="https://stackoverflow.com/users/flair/19637822.png?theme=dark" width="208" height="58" alt="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </p>
 ## 💻 My Tech Stack
 
 ### ✅ Languages
