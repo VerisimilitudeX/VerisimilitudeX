@@ -15,12 +15,8 @@ In my free time, I enjoy playing tennis, swimming, playing the piano, and biking
 
 ### 💬 Get in touch!
 - Portfolio: [https://www.piyushacharya.com/](https://www.piyushacharya.com/)
-- Connect with me on Linkedin:
-
-<div><img src="https://www.piyushacharya.com/assets/img/general/LinkedIn-profile.png" alt="Piyush Acharya"></div>
-              
-- Stack Overflow:
-<p> <a href="https://stackoverflow.com/users/19637822/verisimilitude"><img src="https://stackoverflow.com/users/flair/19637822.png?theme=dark" width="208" height="58" alt="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </p>
+- Connect with me on Linkedin: https://www.linkedin.com/in/piyush-acharya/
+<!-- - Stack Overflow: <p> <a href="https://stackoverflow.com/users/19637822/verisimilitude"><img src="https://stackoverflow.com/users/flair/19637822.png?theme=dark" width="208" height="58" alt="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </p> -->
 ## 💻 My Tech Stack
 
 ### ✅ Languages
@@ -28,9 +24,7 @@ In my free time, I enjoy playing tennis, swimming, playing the piano, and biking
   <a href="https://www.java.com/" target="_blank"><img src="https://th.bing.com/th/id/R.711f654d966e29da576399cc8d873a9e?rik=tifO%2bzvVJ9j0UA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f10%2fJava_logo.png&ehk=P22bQv3apUVfWeZ8R8pFK3FLKFXCgf6kklPc4mjoQkE%3d&risl=&pid=ImgRaw&r=0" alt="Java" width="40" height="40"/></a>
   <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="HTML" width="40" height="40"/></a>
-  <!--
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  -->
   
 </div>
 
