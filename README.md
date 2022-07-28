@@ -43,9 +43,10 @@ In my free time, I enjoy playing tennis, swimming, playing the piano, and biking
   <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/android.svg" alt="react" width="40" height="40"/></a>
   <a href="https://www.bluej.org/" target="_blank"><img src="https://www.freeiconspng.com/uploads/bluej-icon-png-0.png" alt="react" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://visualstudio.com/" target="_blank"><img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-192.2833764d.png" alt="react" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://th.bing.com/th/id/R.6418f7bfd00a63bdebd4cd4cfb550c66?rik=s9rVi8srZAiq2g&riu=http%3a%2f%2fwww.santiagomontesinos.com%2fcontent%2fimages%2f2016%2f03%2fnetlogo-1.png&ehk=EzXxCzKW3VcpV4OXaY1ruJWwjkmo7hBNPSY20RnDwgk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="react" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://jekyllrb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/></a>
-  <a href="https://visualstudio.com/" target="_blank"><img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-192.2833764d.png" alt="react" width="40" height="40"/></a>
   <a href="https://www.eclipse.org/ide/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="react" width="40" height="40"/></a>
   
 </div>
