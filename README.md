@@ -14,7 +14,7 @@ At the end of the 2021-2022 school year, he was awarded the President's Award fo
 
 In summer of 2022, he placed 3rd at both the National Cyber Challenge and Discovery Team Challenge. Most recently, he was given an all-expenses-paid trip by the U.S. Department of Energy to Washington, D.C. to compete at the National Science Bowl Finals where he, along with his team, was awarded the 1st place trophy and the honor of meeting renowned scientists from around the nation.
 
-In addition to his passion for science and technology, Piyush is deeply committed to giving back to his community. This is why he joined Mighty Crayon 2 years ago, with the mission of encouraging enjoyable and empowering experiences for children around the world through the use of recycled creative mediums. Today, as the CEO of Mighty Crayon, he has set a goal to deliver 10,000 crayons + educational coloring books to children around the world. You can learn more about Mighty Crayon's work on their LinkedIn page.
+In addition to his passion for science and technology, Piyush is deeply committed to giving back to his community. This is why he joined Mighty Crayon 2 years ago, with the mission of encouraging enjoyable and empowering experiences for children around the world through the use of recycled creative mediums. Today, <!-- as the CEO of Mighty Crayon, --> he has set a goal to deliver 10,000 crayons and educational coloring books to children around the world. You can learn more about Mighty Crayon's work on their LinkedIn page.
 
 Piyush is thrilled to see his influence on people all over the world and is determined to continue his work.
 
