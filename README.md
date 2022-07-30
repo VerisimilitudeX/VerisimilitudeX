@@ -2,19 +2,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11)
 
-Piyush Acharya is a rising freshman at Interlake High School. He is highly passionate about advancing his skills in the branches of science as well as tying it with his passion for computer science.
+Piyush Acharya is a rising freshman at Interlake High School. He is highly passionate about advancing his skills in the branches of science as well as tying it with his passion for computer science. You can learn more about him on his <a href="https://www.linkedin.com/in/piyush-acharya/">LinkedIn</a>.
 
-In 2019, Piyush won FIRST's Innovative Solution Award for his research and prototype on accelerating the process of detecting potholes. He got the opportunity to present this solution to the City of Bellevue's Department of Transportation to gather more feedback. In the same year, his school awarded him with the Distinguished Humanitarian Award for his self-giving spirit.
-
-In 2021, Piyush placed 2nd in Water Quality, 4th in Reach for the Stars, 5th in Circuit Lab, and 7th in the Helicopters Build Event at the Redmond Science Olympiad. A couple months later, he won 3rd in Water Quality, 5th in Reach for the Stars, 4th in Circuit Lab, and 5th in the Helicopters Build Event at Washington Science Olympiad Finals.
-
-Early in 2022, he (along with his team) placed 1st at National Science Bowl Finals and progressed to win 2nd at the Semifinals. In the same month, he was also awarded 1st place at the Davidson Academy Science Online National Invitational. 
-
-At the end of the 2021-2022 school year, he was awarded the President's Award for Educational Excellence in addition to the Certificate of Appreciation for his dedication to his school's WEB program. 
-
-In summer of 2022, he placed 3rd at both the National Cyber Challenge and Discovery Team Challenge. Most recently, he was given an all-expenses-paid trip by the U.S. Department of Energy to Washington, D.C. to compete at the National Science Bowl Finals where he, along with his team, was awarded the 1st place trophy and the honor of meeting renowned scientists from around the nation.
-
-In addition to his passion for science and technology, Piyush is deeply committed to giving back to his community. This is why he joined Mighty Crayon 2 years ago, with the mission of encouraging enjoyable and empowering experiences for children around the world through the use of recycled creative mediums. Today, <!-- as the CEO of Mighty Crayon, --> he has set a goal to deliver 10,000 crayons and educational coloring books to children around the world. You can learn more about Mighty Crayon's work on their LinkedIn page.
+In addition to his passion for science and technology, Piyush is deeply committed to giving back to his community. This is why he joined <a href="https://www.linkedin.com/company/mightycrayon/">Mighty Crayon</a> 2 years ago, a philanthropic fundraising organization with the mission of encouraging enjoyable and empowering experiences for children around the world through the use of recycled creative mediums. Today, <!-- as the CEO of Mighty Crayon, --> he has set a goal to deliver 10,000 crayons and educational coloring books to children around the world. You can learn more about Mighty Crayon's work on their LinkedIn page.
 
 Piyush is thrilled to see his influence on people all over the world and is determined to continue his work.
 
@@ -26,8 +16,8 @@ In his free time, Piyush enjoys playing tennis competitively, swimming, playing 
 </p>
 
 ### 💬 Get in touch!
-- Portfolio: [https://www.piyushacharya.com/](https://www.piyushacharya.com/)
-- Connect with me on Linkedin: https://www.linkedin.com/in/piyush-acharya/
+- View my [portfolio](https://www.piyushacharya.com/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/piyush-acharya/)
 <!-- - Stack Overflow: <p> <a href="https://stackoverflow.com/users/19637822/verisimilitude"><img src="https://stackoverflow.com/users/flair/19637822.png?theme=dark" width="208" height="58" alt="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </p> -->
 ## 💻 My Tech Stack
 
