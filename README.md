@@ -2,11 +2,21 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11)
 
-Hi, I'm Piyush, a rising freshman at Interlake High School. I recently placed first in the U.S. Department of Energy's National Science Bowl which tests students' knowledge of chemistry, earth science, math, physics, and biology. 
+Piyush Acharya is a rising freshman at Interlake High School, located in Bellevue, Washington. He recently placed first in the U.S. Department of Energy's National Science Bowl which tests students' knowledge of chemistry, earth science, math, physics, energy, and biology.
 
-I am highly passionate about advancing my skills in these fields as well as tying it with my passion for computer science. By continuing to do so, I will be able to apply what I have learned to make an impact on everyday lives.
+He is highly passionate about advancing his skills in these fields as well as tying it with his passion for computer science. By continuing to do so, he will be able to apply what he has learned to make an impact on everyday lives. 
 
-In my free time, I enjoy playing tennis, swimming, playing the piano, and biking with my family.
+In 2019, he won FIRST's Innovative Solution Award for his research and prototype on accelerating the process of detecting potholes. He got the opportunity to present this solution to the City of Bellevue's Department of Transportation to gather more feedback. In the same year, his school awarded him with the Distinguished Humanitarian Award for his self-giving spirit.
+
+In 2021, Piyush placed 2nd in Water Quality, 4th in Reach for the Stars, 5th in Circuit Lab, and 7th in the Helicopters Build Event at the Redmond Science Olympiad. A couple months later, he won 3rd in Water Quality, 5th in Reach for the Stars, 4th in Circuit Lab, and 5th in the Helicopters Build Event at Washington Science Olympiad Finals.
+
+Early in 2022, he (along with his team) placed 1st at National Science Bowl Finals and progressed to win 2nd at the Semifinals. In the same month, he was also awarded 1st place at the Davidson Academy Science Online National Invitational. 
+
+At the end of the 2021-2022 school year, he was awarded the President's Award for Educational Excellence in addition to the Certificate of Appreciation for his dedication to his school's WEB program. 
+
+In summer of 2022, he placed 3rd at both the National Cyber Challenge and Discovery Team Challenge. Most recently, he was given an all-expenses-paid trip by the U.S. Department of Energy to Washington, D.C. to compete at the National Science Bowl Finals where he, along with his team, was awarded the 1st place trophy and the honor of meeting renowned scientists from around the nation.
+
+In his free time, Piyush enjoys playing tennis competitively, swimming, playing the piano, and exploring the extensive Microsoft trail system near his home with his family through languid bike rides.
 
 <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Verisimilitude11&count_private=trueshow_icons=true&theme=tokyonight&border_radius=15" />
