@@ -45,7 +45,3 @@ In my free time, I enjoy playing tennis, swimming, playing the piano, and biking
   <a href="https://jekyllrb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/></a>
   <a href="https://www.eclipse.org/ide/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="react" width="40" height="40"/></a>
 </div>
-
-### Contribution Graph:
-
-![snake svg](https://github.com/Verisimilitude11/Verisimilitude11/blob/output/github-contribution-grid-snake.svg)
