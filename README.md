@@ -4,10 +4,6 @@
 
 Piyush Acharya is a rising freshman at Interlake High School. He is highly passionate about advancing his skills in the branches of science as well as tying it with his passion for computer science. You can learn more about him on his <a href="https://www.linkedin.com/in/piyush-acharya/">LinkedIn</a>.
 
-In addition to his passion for science and technology, Piyush is deeply committed to giving back to his community. This is why he joined <a href="https://www.linkedin.com/company/mightycrayon/">Mighty Crayon</a> 2 years ago, a philanthropic fundraising organization with the mission of encouraging enjoyable and empowering experiences for children around the world through the use of recycled creative mediums. Today, <!-- as the CEO of Mighty Crayon, --> he has set a goal to deliver 10,000 crayons and educational coloring books to children around the world. You can learn more about Mighty Crayon's work on their LinkedIn page.
-
-Piyush is thrilled to see his influence on people all over the world and is determined to continue his work.
-
 In his free time, Piyush enjoys playing tennis competitively, swimming, playing the piano, and exploring the extensive Microsoft trail system near his home with his family through languid bike rides.
 
 <p align="left">
