@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11)
 
-Piyush Acharya is a rising freshman at Interlake High School. He is highly passionate about advancing his skills in the branches of science as well as tying it with his passion for computer science. You can learn more about him on his <a href="https://www.linkedin.com/in/piyush-acharya/">LinkedIn</a>.
+Piyush Acharya is a rising freshman at Interlake High School. He is highly passionate about advancing his skills in the branches of science as well as tying it with his passion for computer science..
 
 In his free time, Piyush enjoys playing tennis competitively, swimming, playing the piano, and exploring the extensive Microsoft trail system near his home with his family through languid bike rides.
 
@@ -14,7 +14,9 @@ In his free time, Piyush enjoys playing tennis competitively, swimming, playing 
 ### 💬 Get in touch!
 - View my [portfolio](https://www.piyushacharya.com/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/piyush-acharya/)
+- Follow me on [DEV](https://dev.to/verisimilitude11)
 <!-- - Stack Overflow: <p> <a href="https://stackoverflow.com/users/19637822/verisimilitude"><img src="https://stackoverflow.com/users/flair/19637822.png?theme=dark" width="208" height="58" alt="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Verisimilitude at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </p> -->
+
 ## 💻 My Tech Stack
 
 ### ✅ Languages
