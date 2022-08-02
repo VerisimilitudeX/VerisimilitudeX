@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Piyush</h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11)
-
 <h2 align-"left">About Me</h2>
 
 Piyush Acharya is a rising freshman at Interlake High School. He is highly passionate about advancing his skills in the branches of science as well as tying it with his passion for computer science..
