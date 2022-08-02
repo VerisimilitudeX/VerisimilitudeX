@@ -15,11 +15,13 @@ In his free time, Piyush enjoys playing tennis competitively, swimming, playing 
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/piyush-acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-acharya" height="30" width="40" /></a>
-<a href="https://discord.gg/919687880773861416" target="blank"><img align="center" src="https://clipground.com/images/discord-icon-png-4.png" alt="919687880773861416" width="40" /></a>
-<a href="https://dev.to/verisimilitude11" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="verisimilitude11" height="30" width="40" /></a>
-<a href="https://codepen.io/verisimilitude11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="verisimilitude11" height="30" width="40" /></a>
-<a href="https://codesandbox.com/verisimilitude11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="verisimilitude11" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/piyush-acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-acharya" height="30" width="40" /></a>
+  <a href="https://www.piyushacharya.com/" target="blank"><img align="center" src="https://openclipart.org/image/2400px/svg_to_png/86401/provider-internet.png" alt="piyush-acharya" height="40" width="40" /></a>
+  <a href="https://discord.gg/919687880773861416" target="blank"><img align="center" src="https://clipground.com/images/discord-icon-png-4.png" alt="919687880773861416" width="40" /></a>
+  <a href="https://verisimilitude11.blogspot.com/" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/02/blogger-logo-icon-3.png" alt="verisimilitude11" height="35" width="35" /></a>
+  <a href="https://dev.to/verisimilitude11" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="verisimilitude11" height="30" width="40" /></a>
+  <a href="https://codepen.io/verisimilitude11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="verisimilitude11" height="30" width="40" /></a>
+  <a href="https://codesandbox.com/verisimilitude11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="verisimilitude11" height="30" width="40" /></a>
 
 </p>
 
