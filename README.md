@@ -33,7 +33,6 @@ In his free time, Piyush enjoys playing tennis competitively, swimming, playing 
   <a href="https://git-scm.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   
   <h2 align="left">Tools</h2>
   <a href="https://developer.android.com" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -47,7 +46,8 @@ In his free time, Piyush enjoys playing tennis competitively, swimming, playing 
   <a href="https://code.visualstudio.com/" target="_blank" ><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="react" width="40" height="40"/></a>
   <a href="https://visualstudio.com/" target="_blank" ><img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-192.2833764d.png" alt="react" width="40" height="40"/></a> 
   <a href="https://pandas.pydata.org/" target="_blank" > <img src="https://asset.jarombek.com/logos/pandas.png" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.eclipse.org/ide/" target="_blank" ><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="react" width="40" height="40"/></a> </p>
+  <a href="https://www.eclipse.org/ide/" target="_blank" ><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="react" width="40" height="40"/></a> 
+    <a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   
   <h2>GitHub Trophies</h2>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verisimilitude11&theme=tokyonight&border_radius=15" alt="verisimilitude11" /></a></p>
