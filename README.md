@@ -47,7 +47,7 @@ In his free time, Piyush enjoys playing tennis competitively, swimming, playing 
   <a href="https://visualstudio.com/" target="_blank" ><img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-192.2833764d.png" alt="react" width="40" height="40"/></a> 
   <a href="https://pandas.pydata.org/" target="_blank" > <img src="https://asset.jarombek.com/logos/pandas.png" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.eclipse.org/ide/" target="_blank" ><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="react" width="40" height="40"/></a> 
-    <a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+    <!--<a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>-->
   
   <h2>GitHub Awards</h2>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verisimilitude11&theme=tokyonight&border_radius=15" alt="verisimilitude11" /></a></p>
