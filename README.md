@@ -50,4 +50,4 @@ In his free time, Piyush enjoys playing tennis competitively, swimming, playing 
     <!--<a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>-->
   
   <h2>GitHub Awards</h2>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verisimilitude11&theme=tokyonight&border_radius=15" alt="verisimilitude11" /></a></p>
+  <p align="left"> <img src="https://github-trophies.vercel.app/?username=verisimilitude11&theme=tokyonight&border_radius=15" alt="verisimilitude11" /></a></p>
