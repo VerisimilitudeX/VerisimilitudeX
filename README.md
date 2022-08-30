@@ -3,9 +3,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11) [![wakatime](https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg)](https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c)
 <h2 align-"left">About Me</h2>
 
-Piyush Acharya is a rising freshman at Interlake High School. He is highly passionate about advancing his skills in the branches of science as well as tying it with his passion for computer science.
+Hi there! I'm Piyush, a freshman at Interlake High School. I'm highly passionate about exploring different ways in which I can advance my skills in the branches of science while also tying it with my passion for computer science.
 
-In his free time, Piyush enjoys playing tennis competitively, swimming, playing the piano, and exploring the extensive Microsoft trail system near his home with his family through languid bike rides.
+In my free time, I enjoy playing tennis competitively, swimming, playing the piano, and exploring the extensive Microsoft trail system near my home with my family through leisurely bike rides.
 
 <p align="left">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=Verisimilitude11&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
