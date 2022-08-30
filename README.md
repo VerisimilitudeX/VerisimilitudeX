@@ -46,7 +46,9 @@ In my free time, I enjoy playing tennis competitively, swimming, playing the pia
   <a href="https://code.visualstudio.com/" target="_blank" ><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="react" width="40" height="40"/></a>
   <a href="https://visualstudio.com/" target="_blank" ><img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-192.2833764d.png" alt="react" width="40" height="40"/></a> 
   <a href="https://pandas.pydata.org/" target="_blank" > <img src="https://asset.jarombek.com/logos/pandas.png" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.eclipse.org/ide/" target="_blank" ><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="react" width="40" height="40"/></a> 
+  <a href="https://www.eclipse.org/ide/" target="_blank" ><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="react" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="react" width="40" height="40"/></a> 
     <!--<a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>-->
   
   <h2>GitHub Awards</h2>
