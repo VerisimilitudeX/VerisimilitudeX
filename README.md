@@ -31,7 +31,7 @@ In my free time, I enjoy playing tennis competitively, swimming, playing the pia
   <a href="https://www.w3schools.com/css/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a>
   <a href="https://git-scm.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="python" width="35" /> </a> 
+    <a href="https://kotlinlang.org/" target="_blank" > <img src="https://user-images.githubusercontent.com/96280466/187807517-1ea45167-f68c-4601-97a9-8a722376122a.png" alt="python" width="35" /> </a> 
   <a href="https://www.java.com" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
   
