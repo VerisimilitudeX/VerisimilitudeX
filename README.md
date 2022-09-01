@@ -8,8 +8,8 @@ Hi there! I'm Piyush, a freshman at Interlake High School. I'm highly passionate
 In my free time, I enjoy playing tennis competitively, swimming, playing the piano, and exploring the extensive Microsoft trail system near my home with my family through leisurely bike rides.
 
 <p align="left">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verisimilitude11&layout=compact&langs_count=8&border_color=fff&&theme=tokyonight&border_radius=11" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verisimilitude11&layout=compact&langs_count=6&border_color=fff&&theme=tokyonight&border_radius=11" />
 </p>
 
 <h2 align="left">Connect with me</h2>
