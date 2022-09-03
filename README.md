@@ -5,7 +5,7 @@
 
 Hi there! I'm Piyush, a freshman at Interlake High School. I'm highly passionate about exploring different ways in which I can advance my skills in the branches of science while also tying it with my passion for computer science.
 
-In my free time, I enjoy playing tennis competitively, swimming, playing the piano, and exploring the extensive Microsoft trail system near my home with my family through leisurely bike rides.
+In my free time, I enjoy playing tennis competitively, swimming, playing the piano, and exploring the extensive Redmond trail system near my home with my family through casual bike rides.
 
 <p align="left">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
