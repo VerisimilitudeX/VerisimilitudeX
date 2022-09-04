@@ -15,7 +15,7 @@ In my free time, I enjoy playing tennis competitively, swimming, playing the pia
 <h2 align="left">Connect with me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/piyush-acharya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-acharya" height="30" width="40" /></a>
-  <a href="https://www.piyushacharya.com/" target="_blank"><img align="center" src="https://openclipart.org/image/2400px/svg_to_png/86401/provider-internet.png" alt="piyush-acharya" height="40" width="40" /></a>
+  <a href="https://www.piyushacharya.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/96280466/188333385-7899ac2b-a73b-489c-8473-e9da08b3ca77.png" alt="piyush-acharya" height="38" width="38" /></a>
   <a href="https://discord.gg/919687880773861416" target="_blank"><img align="center" src="https://clipground.com/images/discord-icon-png-4.png" alt="919687880773861416" width="40" /></a>
   <a href="https://replit.com/@Verisimilitude11" target="_blank"><img align="center" src="https://uptime.com/media/website_profiles/repl.it.png" height="40" width="40" /></a>
   <a href="https://verisimilitude11.blogspot.com/" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/02/blogger-logo-icon-3.png" alt="verisimilitude11" height="35" width="35" /></a>
@@ -27,8 +27,8 @@ In my free time, I enjoy playing tennis competitively, swimming, playing the pia
 
 <h2 align="left">Languages</h2>
 <p align="left"> 
-    <a href="https://kotlinlang.org/" target="_blank" > <img src="https://user-images.githubusercontent.com/96280466/187807517-1ea45167-f68c-4601-97a9-8a722376122a.png" alt="python" width="35" /> </a> 
-  <a href="https://www.java.com" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://kotlinlang.org/" target="_blank" > <img src="https://codescene.io/imgs/4be5b41cbfa4ca6c6755-kotlin.svg" alt="python" width="35" /> </a> 
+  <a href="https://www.java.com" target="_blank" > <img src="https://user-images.githubusercontent.com/96280466/188333337-b3f1dc81-2bbb-4c73-bbb0-ef8c476ae467.png" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" > <img src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> </a>
