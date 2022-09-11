@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Piyush</h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11) [![wakatime](https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg)](https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c)
+<p>
+  <a href="https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c"><img src="https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11" alt="Page view counter" /></a>
+  <a href="https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c"><img src="https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg" alt="Total time coded since Aug 24 2022" /></a>
+</p>
+
 <h2 align-"left">About Me</h2>
 
 Hi there! I'm Piyush, a freshman at Interlake High School. I'm highly passionate about exploring different ways in which I can advance my skills in the branches of science while also tying it with my passion for computer science.
