@@ -44,6 +44,7 @@ In my free time, I enjoy playing tennis competitively, swimming, playing the pia
   <a href="https://www.raspberrypi.org/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" > <img src="https://asset.jarombek.com/logos/pandas.png" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://jekyllrb.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
+  <a href="https://jupyter.org/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jekyll" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a> 
   <a href="https://www.bluej.org/" target="_blank" ><img src="https://www.freeiconspng.com/uploads/bluej-icon-png-0.png" alt="react" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" ><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="react" width="40" height="40"/></a>
