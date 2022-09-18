@@ -7,9 +7,17 @@
 
 <h2 align-"left">About Me</h2>
 
-Hi there! I'm Piyush, a freshman at Interlake High School. I'm highly passionate about exploring different ways in which I can advance my skills in the branches of science while also tying it with my passion for computer science.
+Hi there! 👋 I'm Piyush, a freshman at Interlake High School interested in SWE and ML. I'm highly passionate about exploring different ways in which I can advance my skills in the branches of science while also tying it with my passion for computer science.
 
-In my free time, I enjoy playing tennis competitively, swimming, playing the piano, and exploring the extensive Redmond trail system near my home with my family through casual bike rides.
+Growing up in the Pacific Northwest, I’ve witnessed the forefront of STEM and innovation on my doorstep. This inspired my love for problem-solving and creating early on, from doing competitive math/science to coding my first Python game.
+
+I've competed in a variety of science tournaments, and I recently traveled to Washington, D.C. to compete in the National Science Bowl hosted by the U.S. Department of Energy, where my team and I won first place.
+
+I am also committed to developing large-scale open source projects - I have created and contributed to numerous projects on GitHub. When I'm not studying for upcoming competitions and tests, you can usually find me at my computer, tinkering away at a bioinformatics algorithm I invented for analyzing proteins in DNA.
+
+Additionally, I am a Curriculum Developer Intern at the Nuevo Foundation, where I develop curricula for underprivileged students, including interactive courses for Python, Linux, EV3, cybersecurity, and other topics pertaining to technology.
+
+In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the extensive Redmond trail system near my home either with my family or my DJI Mavic 3.
 
 <p align="left">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
