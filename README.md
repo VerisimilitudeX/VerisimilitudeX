@@ -21,7 +21,7 @@ In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the
 
 <p align="left">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verisimilitude11&layout=compact&langs_count=6&border_color=fff&&theme=tokyonight&border_radius=11" />
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verisimilitude11&layout=compact&langs_count=6&border_color=fff&&theme=tokyonight&border_radius=11&hide=jupyter%20notebook" />
 </p>
 
 <h2 align="left">Connect with me</h2>
