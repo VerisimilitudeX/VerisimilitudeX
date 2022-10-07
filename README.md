@@ -43,6 +43,9 @@ In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the
     <a href="https://kotlinlang.org/" target="_blank" > <img src="https://codescene.io/imgs/4be5b41cbfa4ca6c6755-kotlin.svg" alt="python" width="35" /> </a> 
   <a href="https://www.java.com" target="_blank" > <img src="https://user-images.githubusercontent.com/96280466/188333337-b3f1dc81-2bbb-4c73-bbb0-ef8c476ae467.png" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
+  <a href="https://www.w3schools.com/c/index.php" target="_blank" > <img src="./c.svg" alt="clang" width="38" height="38"/> </a>
+  <a href="https://isocpp.org/" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="38" height="38"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c++" width="38" height="38"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" > <img src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> </a>
