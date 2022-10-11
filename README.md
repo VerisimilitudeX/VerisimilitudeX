@@ -40,7 +40,7 @@ In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the
 
 <h2 align="left">Languages</h2>
 <p align="left"> 
-    <a href="https://kotlinlang.org/" target="_blank" > <img src="https://codescene.io/imgs/4be5b41cbfa4ca6c6755-kotlin.svg" alt="python" width="35" /> </a> 
+    <a href="https://kotlinlang.org/" target="_blank" > <img src="./Kotlin Full Color Logo Mark RGB.png" alt="python" width="35" /> </a> 
   <a href="https://www.java.com" target="_blank" > <img src="https://user-images.githubusercontent.com/96280466/188333337-b3f1dc81-2bbb-4c73-bbb0-ef8c476ae467.png" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
   <a href="https://www.w3schools.com/c/index.php" target="_blank" > <img src="./c.svg" alt="clang" width="38" height="38"/> </a>
