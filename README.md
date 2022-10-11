@@ -61,14 +61,9 @@ In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the
   <a href="https://pandas.pydata.org/" target="_blank" > <img src="https://asset.jarombek.com/logos/pandas.png" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://jekyllrb.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
   <a href="https://jupyter.org/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jekyll" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a> 
-  <a href="https://www.bluej.org/" target="_blank" ><img src="https://www.freeiconspng.com/uploads/bluej-icon-png-0.png" alt="react" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" ><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://visualstudio.com/" target="_blank" ><img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-192.2833764d.png" alt="react" width="40" height="40"/></a> 
-  <a href="https://www.eclipse.org/ide/" target="_blank" ><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="react" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="react" width="40" height="40"/></a> 
-    <!--<a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>-->
+  <a href="https://www.linux.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a>
+  <a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://kit.svelte.dev/" target="_blank" > <img src="https://i.pinimg.com/originals/e9/b9/e9/e9b9e91e19862e0d87698432b0ba6fd6.png" alt="react" width="40" height="40"/> </a> </p>
   
   <h2>GitHub Awards</h2>
   <p align="left"> <img src="https://github-trophies.vercel.app/?username=verisimilitude11&theme=tokyonight&border_radius=15" alt="verisimilitude11" /></a></p>
