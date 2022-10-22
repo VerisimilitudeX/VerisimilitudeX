@@ -13,10 +13,6 @@ Growing up in the Pacific Northwest, I’ve witnessed the forefront of STEM and 
 
 I've competed in a variety of science tournaments, and I recently traveled to Washington, D.C. to compete in the National Science Bowl hosted by the U.S. Department of Energy, where my team and I won first place.
 
-I am also committed to developing large-scale open source projects - I have created and contributed to numerous projects on GitHub. When I'm not studying for upcoming competitions and tests, you can usually find me at my computer, tinkering away at a bioinformatics algorithm I invented for analyzing proteins in DNA.
-
-Additionally, I am a Curriculum Developer Intern at the Nuevo Foundation, where I develop curricula for underprivileged students, including interactive courses for Python, Linux, EV3, cybersecurity, and other topics pertaining to technology.
-
 In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the extensive Redmond trail system near my home either with my family or my DJI Mavic 3.
 
 <p align="left">
