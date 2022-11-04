@@ -34,4 +34,4 @@ In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the
 </p>
 
   <h2>GitHub Awards</h2>
-  <p align="left"> <img src="https://github-trophies.vercel.app/?username=verisimilitude11&theme=tokyonight&border_radius=15" alt="verisimilitude11"/></p>
+  <p align="left"> <img src="https://github-trophies.vercel.app/?username=verisimilitude11&theme=tokyonight&border_radius=15" alt="verisimilitude11's GitHub Awards"/></p>
