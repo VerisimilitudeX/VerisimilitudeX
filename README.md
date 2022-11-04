@@ -31,35 +31,7 @@ In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the
   <a href="https://dev.to/verisimilitude11" target="_blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="verisimilitude11" height="30" width="40" /></a>
   <a href="https://codepen.io/verisimilitude11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="verisimilitude11" height="30" width="40" /></a>
   <a href="https://codesandbox.com/verisimilitude11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="verisimilitude11" height="30" width="40" /></a>
-
 </p>
 
-<h2 align="left">Languages</h2>
-<p align="left"> 
-    <a href="https://kotlinlang.org/" target="_blank" > <img src="./Kotlin Full Color Logo Mark RGB.png" alt="python" width="35" /> </a> 
-  <a href="https://www.java.com" target="_blank" > <img src="https://user-images.githubusercontent.com/96280466/188333337-b3f1dc81-2bbb-4c73-bbb0-ef8c476ae467.png" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
-  <a href="https://www.w3schools.com/c/index.php" target="_blank" > <img src="./c.svg" alt="clang" width="38" height="38"/> </a>
-  <a href="https://isocpp.org/" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="38" height="38"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c++" width="38" height="38"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" > <img src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a>
-  <a href="https://git-scm.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  
-  <h2 align="left">Tools</h2>
-  <a href="https://developer.android.com" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" > <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" > <img src="https://th.bing.com/th/id/R.6418f7bfd00a63bdebd4cd4cfb550c66?rik=s9rVi8srZAiq2g&riu=http%3a%2f%2fwww.santiagomontesinos.com%2fcontent%2fimages%2f2016%2f03%2fnetlogo-1.png&ehk=EzXxCzKW3VcpV4OXaY1ruJWwjkmo7hBNPSY20RnDwgk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="dotnet" width="43" height="43"/> </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" > <img src="https://asset.jarombek.com/logos/pandas.png" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://jekyllrb.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
-  <a href="https://jupyter.org/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jekyll" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a>
-  <a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://kit.svelte.dev/" target="_blank" > <img src="https://i.pinimg.com/originals/e9/b9/e9/e9b9e91e19862e0d87698432b0ba6fd6.png" alt="react" width="40" height="40"/> </a> </p>
-  
   <h2>GitHub Awards</h2>
   <p align="left"> <img src="https://github-trophies.vercel.app/?username=verisimilitude11&theme=tokyonight&border_radius=15" alt="verisimilitude11" /></a></p>
