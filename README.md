@@ -27,7 +27,8 @@ In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the
     <a href="https://dev.to/verisimilitude11" target="_blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="verisimilitude11" height="30" width="40" /></a>
   <a href="https://discord.gg/919687880773861416" target="_blank"><img align="center" src="https://clipground.com/images/discord-icon-png-4.png" alt="919687880773861416" width="40" /></a>
   <a href="https://replit.com/@Verisimilitude11" target="_blank"><img align="center" src="https://uptime.com/media/website_profiles/repl.it.png" height="40" width="40" /></a>
-  <a href="https://leetcode.com/Verisimilitude11/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" height="40" width="40" /></a>
+  <a href="https://leetcode.com/Verisimilitude11/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" height="37" width="37" /></a>
+  <a href="https://stackoverflow.com/users/19637822/verisimilitude11" target="_blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/stack-overflow-icon.png" height="45" width="45" /></a>
   <a href="https://verisimilitude11.blogspot.com/" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/02/blogger-logo-icon-3.png" alt="verisimilitude11" height="35" width="35" /></a>
 
   <h2>GitHub Awards</h2>
