@@ -7,13 +7,15 @@
 
 <h2 align-"left">About Me</h2>
 
-Hi there! 👋 I'm Piyush, a freshman at Interlake High School interested in SWE and ML. I'm highly passionate about exploring different ways in which I can advance my skills in the branches of science while also tying it with my passion for computer science.
+Hi there 👋! I'm Piyush, a driven and ambitious software engineer and machine learning enthusiast. As a freshman at Interlake High School, I'm always on the lookout for new ways to learn and challenge myself, whether it's through competitive math and science tournaments, coding my first Python game, or inventing an algorithm that analyzes DNA (which I open-sourced and currently has over 40 contributors on GitHub).
 
-Growing up in the Pacific Northwest, I’ve witnessed the forefront of STEM and innovation on my doorstep. This inspired my love for problem-solving and creating early on, from doing competitive math/science to coding my first Python game.
+Growing up in the Pacific Northwest, I've been fortunate to witness the forefront of STEM and innovation firsthand, which inspired my love for problem-solving and creating from a young age.
 
-I've competed in a variety of science tournaments, and I recently traveled to Washington, D.C. to compete in the National Science Bowl hosted by the U.S. Department of Energy, where my team and I won first place.
+I've had the opportunity to compete in and win numerous awards and accolades, including first place at the National Science Bowl Finals, hosted by the U.S. Department of Energy. I've also received recognition for my work in cybersecurity and app development, including an Honorable Mention in the Congressional App Challenge and 3rd place in the National Cyber Challenge.
 
-In my spare time, I enjoy playing the piano, tennis, swimming, and exploring the extensive Redmond trail system near my home either with my family or my DJI Mavic 3.
+And my commitment to making a difference extends beyond just technology – as Co-Executive Director of Mighty Crayon, I'm working towards delivering 100,000+ crayons and educational coloring books to children in need around the world by 2024. As a Curriculum Developer Intern at the Nuevo Foundation, I also develop interactive courses for underprivileged students in Python, Linux, EV3, cybersecurity, and other tech-related subjects.
+
+In my spare time, you can find me playing the piano, running cross country (follow me on Strava!), or exploring the Redmond trail system with my family or DJI Mavic 3. I'm always open to connecting with like-minded individuals and learning from their experiences, so please don't hesitate to reach out and say hi!
 
 <p align="left">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=verisimilitude11&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
