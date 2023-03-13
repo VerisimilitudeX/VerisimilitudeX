@@ -7,7 +7,7 @@
 
 <h2 align-"left">About Me</h2>
 
-Hi there 👋! I'm Piyush, a driven and ambitious software engineer and machine learning enthusiast. As a freshman at Interlake High School, I'm always on the lookout for new ways to learn and challenge myself, whether it's through competitive math and science tournaments, coding my first Python game, or inventing an algorithm that analyzes DNA (which I open-sourced and currently has over 40 contributors on GitHub).
+Hi there 👋! I'm Piyush, a driven and ambitious software engineer and machine learning enthusiast. As a freshman at Interlake High School, I'm always on the lookout for new ways to learn and challenge myself, whether it's through competitive math and science tournaments, coding my first Python game, or inventing an algorithm that analyzes DNA.
 
 Growing up in the Pacific Northwest, I've been fortunate to witness the forefront of STEM and innovation firsthand, which inspired my love for problem-solving and creating from a young age.
 
