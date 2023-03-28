@@ -7,15 +7,7 @@
 
 <h2 align-"left">About Me</h2>
 
-Hi there 👋! I'm Piyush, a driven and ambitious software engineer and machine learning enthusiast. As a freshman at Interlake High School, I'm always on the lookout for new ways to learn and challenge myself, whether it's through competitive math and science tournaments, coding my first Python game, or inventing an algorithm that analyzes DNA.
-
-Growing up in the Pacific Northwest, I've been fortunate to witness the forefront of STEM and innovation firsthand, which inspired my love for problem-solving and creating from a young age.
-
-I've had the opportunity to compete in and win numerous awards and accolades, including first place at the National Science Bowl Finals, hosted by the U.S. Department of Energy. I've also received recognition for my work in cybersecurity and app development, including an Honorable Mention in the Congressional App Challenge and 3rd place in the National Cyber Challenge.
-
-And my commitment to making a difference extends beyond just technology – as Co-Executive Director of Mighty Crayon, I'm working towards delivering 100,000+ crayons and educational coloring books to children in need around the world by 2024. As a Curriculum Developer Intern at the Nuevo Foundation, I also develop interactive courses for underprivileged students in Python, Linux, EV3, cybersecurity, and other tech-related subjects.
-
-In my spare time, you can find me playing the piano, running cross country (follow me on Strava!), or exploring the Redmond trail system with my family or DJI Mavic 3. I'm always open to connecting with like-minded individuals and learning from their experiences, so please don't hesitate to reach out and say hi!
+Hi, I'm Piyush Acharya, a science enthusiast, developer, and continuous learner! I'm a freshman at Interlake High School and the founder of DNAnalyzer, a platform that revolutionizes DNA analysis and makes it accessible to all. I'm also a Hack Club Chapter Leader and VP of Interlake Programming Club, as well as the Co-Executive Director of Mighty Crayon, a nonprofit that delivers crayons and educational coloring books to children in need around the world. I love to compete in math and science tournaments, code fun and useful projects, and explore new technologies. Some of my achievements include winning the National Science Bowl Finals, receiving an Honorable Mention in the Congressional App Challenge, and placing 3rd in the National Cyber Challenge. In my spare time, you can find me playing the piano, running cross country, or flying my DJI Mavic 3. Feel free to check out my website or connect with me on LinkedIn or Dev.to!
 
 <p align="left">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=verisimilitudex&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
