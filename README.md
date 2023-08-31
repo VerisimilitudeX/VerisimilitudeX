@@ -7,14 +7,20 @@
 
 <h2 align-"left">About Me</h2>
 
-Hi, I'm Piyush Acharya, a science enthusiast, developer, and continuous learner! I'm a freshman at Interlake High School and the founder of DNAnalyzer, a platform that revolutionizes DNA analysis and makes it accessible to all. I'm also a Hack Club Chapter Leader and VP of Interlake Programming Club, as well as the Co-Executive Director of Mighty Crayon, a nonprofit that delivers crayons and educational books to children in need around the world. I love to compete in math and science tournaments, code fun and useful projects, and explore new technologies. Some of my achievements include winning the National Science Bowl Finals, receiving an Honorable Mention in the Congressional App Challenge, and placing 3rd in the National Cyber Challenge. In my spare time, you can find me playing the piano, running cross country, or flying my DJI Mavic 3. Feel free to check out my website or connect with me on LinkedIn or Dev.to!
+Hi, I'm Piyush Acharya, a science enthusiast, developer, and continuous learner! 
+
+I'm a rising sophomore at Interlake High School and the founder of DNAnalyzer, a platform that revolutionizes DNA analysis and makes it accessible to all. I'm also a Hack Club Chapter Leader and VP of Interlake Programming Club, as well as a research assistant at the University of Victoria and Northeastern University. 
+
+I love to compete in math and science tournaments, code fun and useful projects, and explore new technologies. Some of my achievements include winning the National Science Bowl Finals, receiving an Honorable Mention in the Congressional App Challenge, and placing 3rd in the National Cyber Challenge. In my spare time, you can find me playing the piano, running cross country, or flying my DJI Mavic 3. 
+
+Feel free to check out my website or connect with me on LinkedIn or Dev.to!
 
 <p align="left">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=verisimilitudeX&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verisimilitudex&layout=compact&border_color=fff&&theme=tokyonight&border_radius=11&hide=jupyter%20notebook&langs_count=6" />
 </p>
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Connect with me (links will be fixed by 9/5/23)</h2>
 <p align="left">
   <a href="https://linkedin.com/in/piyush-acharya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-acharya" height="30" width="40" /></a>
   <a href="https://www.piyushacharya.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/96280466/188333385-7899ac2b-a73b-489c-8473-e9da08b3ca77.png" alt="piyush-acharya" height="38" width="38" /></a>
