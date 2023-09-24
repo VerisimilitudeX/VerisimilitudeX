@@ -20,7 +20,7 @@ Feel free to check out my website or connect with me on LinkedIn or Dev.to!
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verisimilitudex&layout=compact&border_color=fff&&theme=tokyonight&border_radius=11&hide=jupyter%20notebook&langs_count=6" />
 </p>
 
-<h2 align="left">Connect with me (links will be fixed by 9/5/23)</h2>
+<h2 align="left">Connect with me (links will be fixed soon)</h2>
 <p align="left">
   <a href="https://linkedin.com/in/piyush-acharya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-acharya" height="30" width="40" /></a>
   <a href="https://www.piyushacharya.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/96280466/188333385-7899ac2b-a73b-489c-8473-e9da08b3ca77.png" alt="piyush-acharya" height="38" width="38" /></a>
