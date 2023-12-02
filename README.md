@@ -9,9 +9,9 @@
 
 Hi, I'm Piyush Acharya, a science enthusiast, developer, and continuous learner! 
 
-I'm a rising sophomore at Interlake High School and the founder of DNAnalyzer, a platform that revolutionizes DNA analysis and makes it accessible to all. I'm also a Hack Club Chapter Leader and VP of Interlake Programming Club, as well as a research assistant at the University of Victoria and Northeastern University. 
+I'm a rising sophomore at Interlake High School and the founder of DNAnalyzer, a platform that revolutionizes DNA analysis and makes it accessible to all. I'm also a Hack Club Chapter Leader and VP of Interlake Programming Club, as well as a research assistant at the University of Victoria working on Consumer Applications of Neurological Radiance Fields. 
 
-I love to compete in math and science tournaments, code fun and useful projects, and explore new technologies. Some of my achievements include winning the National Science Bowl Finals, placing 3rd in the Congressional App Challenge, and placing 3rd in the National Cyber Challenge. In my spare time, you can find me playing the piano, running cross country, or flying my DJI Mavic 3.
+I love to compete in math and science tournaments, code fun and useful projects, and explore new technologies. Some of my achievements include winning the National Science Bowl Finals, 2x winner of the U.S. Congressional App Challenge, and placing 3rd in the National Cyber Challenge. In my spare time, you can find me playing the piano, running cross country, or flying my DJI Mavic 3.
 
 Feel free to check out my website or connect with me on LinkedIn or Dev.to!
 
