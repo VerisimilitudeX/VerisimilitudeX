@@ -7,7 +7,7 @@
 
 <h2 align-"left">About Me</h2>
 
-Hi, I'm Piyush Acharya, a science enthusiast, developer, and continuous learner! 
+Hi, I'm Piyush Acharya, founder of DNAnalyzer, VP of Interlake Programming Club, and Organizer at HackPNW!
 
 I'm a sophomore at Interlake High School and the founder of DNAnalyzer, a platform that revolutionizes AI-powered DNA analysis and makes it accessible to all. I'm also an Organizer at HackPNW (Washington's largest student-led hackathon organization) and VP of Interlake Programming Club, as well as a research assistant at Northeastern University working on consumer applications of neurological radiance fields (NeRFs). 
 
