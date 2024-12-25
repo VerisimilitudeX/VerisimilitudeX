@@ -17,7 +17,7 @@ Feel free to check out my website or connect with me on LinkedIn or [Dev.to](htt
 
 <p align="left">
   <img align="center" height="170" src="https://github-readme-stats-kappa-kohl-69.vercel.app/api?username=verisimilitudeX&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img align="center" height="170" src="https://github-readme-stats-kappa-kohl-69.vercel.app/api/top-langs/?username=verisimilitudex&layout=compact&border_color=fff&&theme=tokyonight&border_radius=11&hide=javascript,css,svelte,powershell,typescript,makefile,rich%20text%20format&langs_count=6" />
+  <img align="center" height="170" src="https://github-readme-stats-kappa-kohl-69.vercel.app/api/top-langs/?username=verisimilitudex&layout=compact&border_color=fff&&theme=tokyonight&border_radius=11&hide=jupyter%20notebook,javascript,css,svelte,powershell,typescript,makefile,rich%20text%20format&langs_count=6" />
 </p>
   <h2>GitHub Awards</h2>
   <p align="left"> <img src="https://github-trophies.vercel.app/?username=verisimilitudex&theme=tokyonight&border_radius=15" alt="verisimilitudeX's GitHub Awards"/></p>
