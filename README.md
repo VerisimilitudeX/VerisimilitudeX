@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Piyush!</h1>
 
 <p>
-  <a href="https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c"><img src="https://visitor-badge.laobi.icu/badge?page_id=VerisimilitudeX.VerisimilitudeX" alt="Page view counter" /></a>
-  <a href="https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c"><img src="https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg" alt="Total time coded since Aug 24 2022" /></a>
+  <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=VerisimilitudeX.VerisimilitudeX" alt="Page view counter" /></a>
+  <a href=""><img src="https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg" alt="Total time coded since Aug 24 2022" /></a>
 </p>
 
 <h2 align-"left">About Me</h2>
