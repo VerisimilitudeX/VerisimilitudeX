@@ -7,6 +7,8 @@
 
 <h2 align-"left">About Me</h2>
 
+We have current work on the epigenetic classification of ME/CFS and PASC in [this repository](https://github.com/VerisimilitudeX/EpiMECoV)
+
 Hi, I'm Piyush Acharya, the founder of DNAnalyzer, Vice President of Interlake Programming Club, and an Organizer at HackPNW!
 
 I'm a junior at Interlake High School and the founder of [DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer), a GitHub Trending platform that revolutionizes ML-powered DNA analysis and makes it accessible to all. I'm also an Organizer at [HackPNW](https://github.com/HackPNW) (Washington's largest high school hackathon), Vice President of [Interlake Programming Club](https://www.interlakeprogrammingclub.com/), and a researcher at the University of Victoria, where I apply machine learning techniques to neural radiance fields (NeRFs) and epigenetic data ([epiMECoV](https://github.com/VerisimilitudeX/EpiMECoV)).
