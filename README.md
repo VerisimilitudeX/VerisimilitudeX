@@ -7,7 +7,7 @@
 
 <h2 align-"left">About Me</h2>
 
-We have current work on the epigenetic classification of ME/CFS and PASC in [this repository](https://github.com/VerisimilitudeX/EpiMECoV)
+We have current work on the epigenetic classification of ME/CFS and PASC in [this repository](https://github.com/VerisimilitudeX/EpiMECoV).
 
 Hi, I'm Piyush Acharya, the founder of DNAnalyzer, Vice President of Interlake Programming Club, and an Organizer at HackPNW!
 
