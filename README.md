@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Piyush!</h1>
 
-❗ Dr. Jacoby and I have current work on **Mobius: Mixture-Of-Experts Transformer Model in Epigenetics of ME/CFS and Long COVID** in [this (private) repository](https://github.com/VerisimilitudeX/EpiMECoV).
+❗ Dr. Jacoby and I have current work on **Mobius: Mixture-Of-Experts Transformer Model in Epigenetics of ME/CFS and Long COVID** in [this private repository](https://github.com/VerisimilitudeX/EpiMECoV).
 
 ---
 
