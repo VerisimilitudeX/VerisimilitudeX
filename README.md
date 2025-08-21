@@ -1,9 +1,4 @@
 <h1 align="center">👋 Hey, I'm Piyush!</h1>
-
-❗ Dr. Jacoby and I have current work on **Mobius: Mixture-Of-Experts Transformer Model in Epigenetics of ME/CFS and Long COVID** in [this private repository](https://github.com/VerisimilitudeX/EpiMECoV).
-
----
-
 <p>
   <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=VerisimilitudeX.VerisimilitudeX" alt="Page view counter" /></a>
   <a href=""><img src="https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg" alt="Total time coded since Aug 24 2022" /></a>
