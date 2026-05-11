@@ -6,7 +6,7 @@
 
 <h2 align-"left">About Me</h2>
 
-Hi, I'm Piyush Acharya, the founder of DNAnalyzer, President of Interlake Programming Club, and an Organizer at HackPNW! I'm the founder of DNAnalyzer, a GitHub #1 Trending platform that revolutionizes ML-powered DNA analysis and makes it accessible to all. I'm also an Organizer at HackPNW (Washington's largest high school hackathon), President of Interlake Programming Club, and a researcher at the University of Victoria, where I apply machine learning techniques to machine learning, knowledge graphs, and epigenetics. I love making fun and useful projects, and exploring new technologies in artificial intelligence to push the boundaries of scientific research. 
+Hi, I'm Piyush Acharya, an incoming Computer Science student at UC Berkeley! I'm the founder of DNAnalyzer, a GitHub #1 Trending platform that revolutionizes ML-powered DNA analysis and makes it accessible to all. I'm also an Organizer at HackPNW (Washington's largest high school hackathon), President of Interlake Programming Club, and a researcher at the University of Victoria, where I apply machine learning techniques to machine learning, knowledge graphs, and epigenetics. I love making fun and useful projects, and exploring new technologies in artificial intelligence to push the boundaries of scientific research.
 
 I'm currently focusing on meaningful, hands-on work across research, engineering, and service. If you'd like to chat, feel free to check out my [website](http://piyushacharya.com/) or connect with me on [Dev.to](https://dev.to/verisimilitudex)!
 
