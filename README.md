@@ -57,12 +57,12 @@ Currently, I'm a payload software engineer at [Husky Satellite Lab](https://www.
 On-device genomic analysis with no data ever leaving the machine. 47 contributors across 41 institutions, 4,342 users on 4 continents, GitHub #1 Trending in bioinformatics, [USPTO Provisional 63/949,319](https://docs.google.com/document/d/1xNmyH-RpZ8gr1aNdUhrCkBFNcoHXbOWIwTDo91b1NEc/edit?usp=sharing). [a16z Speedrun semifinalist](https://docs.google.com/document/d/1xNmyH-RpZ8gr1aNdUhrCkBFNcoHXbOWIwTDo91b1NEc/edit?usp=sharing) (top 10% of 14k applicants).
 `Java` · `Python` · `PyTorch` · `Transformers` · `on-device inference`
 
-#### &nbsp;Mobius · ME/CFS & Long COVID Epigenomics
+#### &nbsp;Mobius · Novel Transformer Model in Epigenomics of ME/CFS & Long COVID
 Mixture-of-Experts transformer hitting [97.1% diagnostic accuracy](https://ieeexplore.ieee.org/abstract/document/11046171) on 850K+ methylation datapoints, vs. 58% physician baseline. First-author publication at IEEE BioSMART 2025 (Paris). USPTO Provisional 63/805,265. Top 5% bioRxiv downloads.
 `PyTorch` · `MoE transformers` · `methylation arrays` · `CUDA`
 
-#### &nbsp;Project Kaleido · Blue Origin NS-35 Payload
-Mission lead for a [DoD-funded suborbital experiment](https://www.dailyuw.com/article/husky-satellite-lab-to-send-capsule-to-space-20250514) on DNA origami stability, studying nucleic-acid drug delivery feasibility for Moon and Mars missions. Collaborators: MIT Media Lab, CNRS, UVic, UW HSL. Publication in review.
+#### &nbsp;Project Kaleido · Blue Origin New Shepard-35 Payload
+Mission lead for a [University Nanosatellite Program-funded suborbital experiment](https://www.dailyuw.com/article/husky-satellite-lab-to-send-capsule-to-space-20250514) on DNA origami stability, studying nucleic-acid drug delivery feasibility for Moon and Mars missions. Collaborators: MIT Media Lab, French National Center for Scientific Research, University of Victoria, and University of Washington's Husky Satellite Lab.
 `Embedded firmware` · `DNA origami` · `payload telemetry`
 
 <br>
