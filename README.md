@@ -41,9 +41,9 @@
 
 ## About
 
-I'm a researcher and software engineer working at the intersection of machine learning and biology. I founded [DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer), a privacy-first AI genomics platform that hit GitHub #1 Trending and now has 4,342 users across 18 countries, and gave the only high school talk at GitHub's [Git Merge 2025](https://git-merge.com/#piyush-acharya). My research on transformer-based epigenomics for ME/CFS and Long COVID was [published in IEEE](https://ieeexplore.ieee.org/abstract/document/11046171) and presented at Harvard Medical School.
+I'm a researcher and software engineer working at the intersection of machine learning and biology. I founded [DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer), a privacy-first AI genomics platform that hit GitHub #1 Trending and now has 4,342 users across 18 countries, and gave the only high school talk at GitHub's [Git Merge 2025](https://git-merge.com/#piyush-acharya). My research on transformer-based epigenomics for ME/CFS and Long COVID was [published in IEEE](https://ieeexplore.ieee.org/abstract/document/11046171) and presented at Stony Brook and Harvard Medical School.
 
-Right now, I'm a payload software engineer at [Husky Satellite Lab](https://www.huskysat.org/) for a star positioning system <!--, incoming intern #1 at [Rhema Health](https://rhema.health/) (a16z Speedrun 007),--> and a returning TA for MIT Media Lab's graduate course [How To Grow Almost Anything](https://2026a.htgaa.org/).
+Currently, I'm a payload software engineer at [Husky Satellite Lab](https://www.huskysat.org/) for a star positioning system <!--, incoming intern #1 at [Rhema Health](https://rhema.health/) (a16z Speedrun 007),--> and a returning TA for MIT Media Lab's graduate course [How To Grow Almost Anything](https://2026a.htgaa.org/).
 
 <br>
 
@@ -155,54 +155,13 @@ Mission lead for a [DoD-funded suborbital experiment](https://www.dailyuw.com/ar
 <br>
 
 <!-- ┌──────────────────────────────────────────────────────────────────────┐ -->
-<!-- │  GITHUB ANALYTICS                                                    │ -->
-<!-- └──────────────────────────────────────────────────────────────────────┘ -->
-
-## GitHub Analytics
-
-<p align="center">
-  <img
-    height="170"
-    alt="Piyush Acharya's GitHub stats"
-    loading="lazy"
-    src="https://github-readme-stats.vercel.app/api?username=VerisimilitudeX&count_private=true&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false&include_all_commits=true"
-  />
-  &nbsp;
-  <img
-    height="170"
-    alt="Most-used languages"
-    loading="lazy"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VerisimilitudeX&layout=compact&theme=tokyonight&border_radius=15&hide=jupyter%20notebook,javascript,css,svelte,powershell,typescript,makefile,rich%20text%20format&langs_count=6"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    alt="Wakatime weekly breakdown"
-    loading="lazy"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=verisimilitudeX&theme=tokyonight&border_radius=15&hide_border=false&layout=compact&langs_count=8"
-  />
-</p>
-
-<p align="center">
-  <img
-    alt="GitHub activity graph"
-    loading="lazy"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VerisimilitudeX&theme=tokyo-night&hide_border=true&radius=15&area=true&days=60"
-  />
-</p>
-
-<br>
-
-<!-- ┌──────────────────────────────────────────────────────────────────────┐ -->
 <!-- │  FOOTER                                                              │ -->
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
 <p align="center">
   <sub>
-    Open to research collaborations, internships, and conversations about ML, biology, and systems.
+    Always open to opportunities and thoughtful conversations.
     <br>
-    <a href="mailto:hey@piyushacharya.com">hey@piyushacharya.com</a>
+    <a>hey [at] piyushacharya [dot] com</a>
   </sub>
 </p>
