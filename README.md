@@ -52,7 +52,7 @@ Currently, I'm a payload software engineer at [Husky Satellite Lab](https://www.
     <img
       width="80%"
       alt="Git Merge 2025 talk recording on YouTube"
-      src="https://github.com/user-attachments/assets/458fbf5f-d85e-4c47-9a45-77ded537d287"
+      src="https://github.com/user-attachments/assets/af69280c-7590-40d6-bd58-56c74a0a7b4e"
     />
   </a>
 </p>
