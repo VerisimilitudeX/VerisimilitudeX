@@ -12,20 +12,20 @@
 <h1 align="center">Piyush Acharya</h1>
 
 <p align="center">
-  <em>Computer Science @ UC Berkeley · Building privacy-first AI for science</em>
+  <em>Co-founder and CEO of Alfred · UC Berkeley</em>
 </p>
 
 <p align="center">
-  <a href="https://piyushacharya.com">
+  <a href="https://www.piyushacharya.com">
     <img alt="Website" src="https://img.shields.io/badge/Website-piyushacharya.com-7aa2f7?style=flat-square&logo=safari&logoColor=white" />
   </a>
-  <a href="https://piyushacharya.com/meet/">
+  <a href="https://www.piyushacharya.com/meet/">
     <img alt="Request a meeting" src="https://img.shields.io/badge/Meet-Request_a_call-7aa2f7?style=flat-square" />
   </a>
   <a href="mailto:hey@piyushacharya.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-hey%40piyushacharya.com-f7768e?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/piyushacharya/">
+  <a href="https://www.linkedin.com/in/piyush-acharya/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-piyushacharya-0a66c2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://scholar.google.com/citations?user=1hiBGZEAAAAJ">
@@ -44,9 +44,9 @@
 
 ## About
 
-I'm a researcher and software engineer working at the intersection of machine learning and biology. I founded [DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer), a privacy-first AI genomics platform that hit GitHub #1 Trending and now has 4,342 users across 18 countries, and gave the only high school talk at GitHub's [Git Merge 2025](https://git-merge.com/#piyush-acharya). My research on transformer-based epigenomics for ME/CFS and Long COVID was [published in IEEE](https://ieeexplore.ieee.org/abstract/document/11046171) and presented at Stony Brook and Harvard Medical School.
+I co-founded [Alfred](https://tryalfred.org/), where we build software for insurance brokerages. I study computer science at UC Berkeley and previously worked in engineering at Rhema Health.
 
-Currently, I'm a payload software engineer at [Husky Satellite Lab](https://www.huskysat.org/) for a star positioning system <!--, incoming intern #1 at [Rhema Health](https://rhema.health/) (a16z Speedrun 007),--> and a returning TA for MIT Media Lab's graduate course [How To Grow Almost Anything](https://2026a.htgaa.org/).
+I founded [DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer) and presented the project at [Git Merge](https://www.youtube.com/watch?v=uIg_FsAD8Xk). My [research on ME/CFS and Long COVID](https://ieeexplore.ieee.org/document/11046171) uses machine learning to study epigenetic data. In 2026, I joined the [WTO Young Trade Leaders](https://www.wto.org/english/news_e/news26_e/ytl_01jul26_438_e.htm).
 
 <br>
 
