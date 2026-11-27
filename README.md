@@ -44,9 +44,7 @@
 
 ## About
 
-I co-founded [Alfred](https://tryalfred.org/), where we build software for insurance brokerages. I study computer science at UC Berkeley and previously worked in engineering at Rhema Health.
-
-I founded [DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer) and presented the project at [Git Merge](https://www.youtube.com/watch?v=uIg_FsAD8Xk). My [research on ME/CFS and Long COVID](https://ieeexplore.ieee.org/document/11046171) uses machine learning to study epigenetic data. In 2026, I joined the [WTO Young Trade Leaders](https://www.wto.org/english/news_e/news26_e/ytl_01jul26_438_e.htm).
+I study computer science at UC Berkeley and co-founded Alfred (YC S27), where we build software for insurance brokers.
 
 <br>
 
