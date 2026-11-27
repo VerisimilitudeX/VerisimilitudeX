@@ -19,6 +19,9 @@
   <a href="https://piyushacharya.com">
     <img alt="Website" src="https://img.shields.io/badge/Website-piyushacharya.com-7aa2f7?style=flat-square&logo=safari&logoColor=white" />
   </a>
+  <a href="https://piyushacharya.com/meet/">
+    <img alt="Request a meeting" src="https://img.shields.io/badge/Meet-Request_a_call-7aa2f7?style=flat-square" />
+  </a>
   <a href="mailto:hey@piyushacharya.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-hey%40piyushacharya.com-f7768e?style=flat-square&logo=gmail&logoColor=white" />
   </a>
