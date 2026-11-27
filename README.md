@@ -12,7 +12,7 @@
 <h1 align="center">Piyush Acharya</h1>
 
 <p align="center">
-  <em>Co-founder and CEO of Alfred · UC Berkeley</em>
+  <em>Computer Science @ UC Berkeley · Building privacy-first AI for science</em>
 </p>
 
 <p align="center">
@@ -44,7 +44,9 @@
 
 ## About
 
-I study computer science at UC Berkeley and co-founded Alfred (YC S27), where we build software for insurance brokers.
+I'm a researcher and software engineer working at the intersection of machine learning and biology. I founded [DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer), a privacy-first AI genomics platform that hit GitHub #1 Trending and now has 4,342 users across 18 countries, and gave the only high school talk at GitHub's [Git Merge 2025](https://git-merge.com/#piyush-acharya). My research on transformer-based epigenomics for ME/CFS and Long COVID was [published in IEEE](https://ieeexplore.ieee.org/abstract/document/11046171) and presented at Stony Brook and Harvard Medical School.
+
+Currently, I'm a payload software engineer at [Husky Satellite Lab](https://www.huskysat.org/) for a star positioning system <!--, incoming intern #1 at [Rhema Health](https://rhema.health/) (a16z Speedrun 007),--> and a returning TA for MIT Media Lab's graduate course [How To Grow Almost Anything](https://2026a.htgaa.org/).
 
 <br>
 
